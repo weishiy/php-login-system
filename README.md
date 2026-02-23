@@ -8,12 +8,12 @@ This project is part of my backend developer learning journey and will be contin
 
 ## Current Features
 
-- User registration
-- User login
-- Password hashing
-- Session authentication
-- Dashboard page
-- Logout
+- ✅ User registration
+- ✅ User login
+- ✅ Password hashing
+- ✅ Session authentication
+- ✅ Dashboard page
+- ✅ Logout
 
 ---
 
@@ -21,42 +21,42 @@ This project is part of my backend developer learning journey and will be contin
 
 ### Security
 
-- [x] Password hashing
-- [ ] Prevent SQL injection
-- [ ] Add input validation
-- [ ] Add password strength validation
+- ⬜ Password hashing
+- ⬜ Prevent SQL injection
+- ⬜ Add input validation
+- ⬜ Add password strength validation
 
 ---
 
 ### User Features
 
-- [ ] Edit profile
-- [ ] Change password
-- [ ] Delete account
+- ⬜ Edit profile
+- ⬜ Change password
+- ⬜ Delete account
 
 ---
 
 ### UI Improvements
 
-- [ ] Add Bootstrap styling
-- [ ] Improve login page design
-- [ ] Add navigation bar
+- ⬜ Add Bootstrap styling
+- ⬜ Improve login page design
+- ⬜ Add navigation bar
 
 ---
 
 ### Advanced Features
 
-- [ ] Remember me
-- [ ] Email verification
-- [ ] Password reset
+- ⬜ Remember me
+- ⬜ Email verification
+- ⬜ Password reset
 
 ---
 
 ### Backend Improvements
 
-- [ ] Refactor code into functions
-- [ ] Use MVC structure
-- [ ] Convert project to Laravel
+- ⬜ Refactor code into functions
+- ⬜ Use MVC structure
+- ⬜ Convert project to Laravel
 
 ---
 
