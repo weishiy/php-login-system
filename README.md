@@ -38,7 +38,7 @@ This project is part of my backend developer learning journey and will be contin
 
 ### UI Improvements
 
-- ⬜ Add Bootstrap styling
+- ✅ Add Bootstrap styling
 - ⬜ Improve login page design
 - ⬜ Add navigation bar
 
