@@ -17,6 +17,26 @@ This project is part of my backend developer learning journey and will be contin
 
 ---
 
+## Screenshots
+
+### Register Page
+
+![Register](screenshots/register.png)
+
+---
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+---
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
 ## Upgrade Checklist
 
 ### Security
