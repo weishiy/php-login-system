@@ -21,7 +21,7 @@ This project is part of my backend developer learning journey and will be contin
 
 ### Security
 
-- ⬜ Password hashing
+- ✅ Password hashing
 - ⬜ Prevent SQL injection
 - ⬜ Add input validation
 - ⬜ Add password strength validation
