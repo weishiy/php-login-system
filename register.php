@@ -14,6 +14,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $error = "Username and password are required.";
     } elseif (strlen($rawPassword) < 6) {
         $error = "Password must be at least 6 characters.";
+    } elseif (!preg_match('/^[a-zA-Z0-9_]{3,20}$/', $username)) {
+        $error = "Username must be 3-20 characters and only contain letters, numbers, or _";
+    } elseif (strlen($rawPassword) < 6) {
+        $error = "Password must be at least 6 characters.";
     } else {
         // Check duplicate username (nice UX)
         $check = $pdo->prepare("SELECT id FROM users WHERE username = ?");
